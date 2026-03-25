@@ -2,6 +2,7 @@
 layout: page
 title: "Plumbers"
 permalink: /plumbers
+baseurl: ""
 ---
 
 | Name          | Phone         |
